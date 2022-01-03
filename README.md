@@ -1,1 +1,1 @@
-# ds-multi-tenancy-filter
+# ds-multi-tendency-filter
